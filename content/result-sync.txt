@@ -1,0 +1,1 @@
+Result: First file content., Second file context.
